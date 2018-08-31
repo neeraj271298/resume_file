@@ -1,1 +1,1 @@
-sir , this is only a tution pupose
+this is a responsive resume file.

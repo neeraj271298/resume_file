@@ -1,0 +1,18 @@
+.head .middle-head{
+    background: #000;
+    color:#fff;
+}
+
+.head .port-item{
+    width:30%;
+}
+.head .port-item:hover{
+     opacity:0.8;
+     cursor:pointer;
+}
+@media(min-width: 1199px){
+  .port-item{
+
+    padding:2.65em !important;
+  }
+}
